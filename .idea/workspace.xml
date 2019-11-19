@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c91a671b-a4c3-41c3-ac33-9c03922b540d" name="Default Changelist" comment="" />
+    <list default="true" id="c91a671b-a4c3-41c3-ac33-9c03922b540d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +29,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="948" />
     <option name="width" value="981" />
     <option name="height" value="1032" />
@@ -44,11 +46,6 @@
             <path>
               <item name="UdemyJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="UdemyJava" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UdemyJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UdemyJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -90,7 +87,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
